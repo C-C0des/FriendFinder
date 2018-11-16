@@ -1,0 +1,244 @@
+var friendsArr = [
+{
+  "name": "Anne",
+  "photo":"../public/friendsimg/anne.jpeg",
+  "scores":[
+      1,
+      4,
+      3,
+      3,
+      3,
+      4,
+      5,
+      3,
+      2,
+      5
+    ]
+},
+{
+  "name": "Beth",
+  "photo":"./public/friendsimg/beth.jpeg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      3,
+      2,
+      3,
+      1
+    ]
+},
+{
+  "name": "Mira",
+  "photo":"https://images.pexels.com/photos/573238/pexels-photo-573238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "scores":[
+      4,
+      5,
+      4,
+      4,
+      3,
+      1,
+      2,
+      2,
+      2,
+      3
+    ]
+},
+{
+  "name": "Zoe",
+  "photo":"./public/friendsimg/zoe.jpeg",
+  "scores":[
+      4,
+      3,
+      2,
+      3,
+      4,
+      1,
+      2,
+      3,
+      4,
+      2
+    ]
+},
+{
+  "name": "Lakshmi",
+  "photo":"./public/friendsimg/lakshmi.jpeg",
+  "scores":[
+      5,
+      4,
+      4,
+      3,
+      5,
+      4,
+      2,
+      5,
+      4,
+      3
+    ]
+},
+{
+  "name": "Sofia",
+  "photo":"https://images.pexels.com/photos/1574647/pexels-photo-1574647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "scores":[
+      1,
+      2,
+      3,
+      4,
+      5,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+},
+{
+  "name": "Mateo",
+  "photo":"./public/friendsimg/mateo.jpeg",
+  "scores":[
+      4,
+      3,
+      4,
+      5,
+      5,
+      2,
+      2,
+      1,
+      3,
+      1
+    ]
+},
+{
+  "name": "Hugh",
+  "photo":"./public/friendsimg/hugh.jpeg",
+  "scores":[
+      1,
+      2,
+      3,
+      3,
+      4,
+      2,
+      3,
+      4,
+      5,
+      1
+    ]
+},
+{
+  "name": "Frederick",
+  "photo":"../public/friendsimg/frederick.jpg",
+  "scores":[
+      2,
+      3,
+      2,
+      3,
+      5,
+      4,
+      3,
+      1,
+      1,
+      1
+    ]
+},
+{
+  "name": "Anne",
+  "photo":"./public/friendsimg/anne.jpeg",
+  "scores":[
+      3,
+      1,
+      3,
+      3,
+      5,
+      1,
+      4,
+      5,
+      5,
+      2
+    ]
+},
+{
+  "name": "Mira",
+  "photo":"./public/friendsimg/mira.jpeg",
+  "scores":[
+      1,
+      1,
+      3,
+      4,
+      5,
+      4,
+      2,
+      2,
+      3,
+      1
+    ]
+},
+{
+  "name": "Zoe",
+  "photo":"./public/friendsimg/zoe.jpeg",
+  "scores":[
+      5,
+      4,
+      3,
+      4,
+      3,
+      2,
+      2,
+      2,
+      3,
+      2
+    ]
+},
+{
+  "name": "Lakshmi",
+  "photo":"./public/friendsimg/lakshmo.jpeg",
+  "scores":[
+      5,
+      3,
+      1,
+      2,
+      3,
+      4,
+      5,
+      4,
+      3,
+      1
+    ]
+},
+{
+  "name": "Frederick",
+  "photo":"./public/friendsimg/frederick.jpeg",
+  "scores":[
+      3,
+      4,
+      2,
+      2,
+      3,
+      4,
+      3,
+      4,
+      2,
+      1
+    ]
+},
+{
+  "name": "Hugh",
+  "photo":"./public/friendsimg/beth.jpeg",
+  "scores":[
+      5,
+      4,
+      4,
+      3,
+      2,
+      1,
+      4,
+      5,
+      3,
+      2
+    ]
+}
+];
+
+module.exports = friendsArr;
