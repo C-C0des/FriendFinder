@@ -1,7 +1,7 @@
 var friendsArr = [
 {
   "name": "Anne",
-  "photo":"../public/friendsimg/anne.jpeg",
+  "photo":"https://images.pexels.com/photos/813940/pexels-photo-813940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "scores":[
       1,
       4,
@@ -17,7 +17,7 @@ var friendsArr = [
 },
 {
   "name": "Beth",
-  "photo":"./public/friendsimg/beth.jpeg",
+  "photo":"https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "scores":[
       5,
       1,
@@ -33,7 +33,7 @@ var friendsArr = [
 },
 {
   "name": "Mira",
-  "photo":"https://images.pexels.com/photos/573238/pexels-photo-573238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo":"https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "scores":[
       4,
       5,
@@ -49,7 +49,7 @@ var friendsArr = [
 },
 {
   "name": "Zoe",
-  "photo":"./public/friendsimg/zoe.jpeg",
+  "photo":"https://images.pexels.com/photos/935986/pexels-photo-935986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "scores":[
       4,
       3,
@@ -65,7 +65,7 @@ var friendsArr = [
 },
 {
   "name": "Lakshmi",
-  "photo":"./public/friendsimg/lakshmi.jpeg",
+  "photo":"https://images.pexels.com/photos/937541/pexels-photo-937541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "scores":[
       5,
       4,
@@ -97,7 +97,7 @@ var friendsArr = [
 },
 {
   "name": "Mateo",
-  "photo":"./public/friendsimg/mateo.jpeg",
+  "photo":"https://images.pexels.com/photos/1121796/pexels-photo-1121796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "scores":[
       4,
       3,
@@ -113,7 +113,7 @@ var friendsArr = [
 },
 {
   "name": "Hugh",
-  "photo":"./public/friendsimg/hugh.jpeg",
+  "photo":"https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "scores":[
       1,
       2,
@@ -129,7 +129,7 @@ var friendsArr = [
 },
 {
   "name": "Frederick",
-  "photo":"../public/friendsimg/frederick.jpg",
+  "photo":"https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "scores":[
       2,
       3,
@@ -145,7 +145,7 @@ var friendsArr = [
 },
 {
   "name": "Anne",
-  "photo":"./public/friendsimg/anne.jpeg",
+  "photo":"https://images.pexels.com/photos/813940/pexels-photo-813940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "scores":[
       3,
       1,
@@ -161,7 +161,7 @@ var friendsArr = [
 },
 {
   "name": "Mira",
-  "photo":"./public/friendsimg/mira.jpeg",
+  "photo":"https://images.pexels.com/photos/756453/pexels-photo-756453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "scores":[
       1,
       1,
@@ -193,7 +193,7 @@ var friendsArr = [
 },
 {
   "name": "Lakshmi",
-  "photo":"./public/friendsimg/lakshmo.jpeg",
+  "photo":"https://images.pexels.com/photos/968279/pexels-photo-968279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "scores":[
       5,
       3,
@@ -209,7 +209,7 @@ var friendsArr = [
 },
 {
   "name": "Frederick",
-  "photo":"./public/friendsimg/frederick.jpeg",
+  "photo":"https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "scores":[
       3,
       4,
@@ -224,8 +224,8 @@ var friendsArr = [
     ]
 },
 {
-  "name": "Hugh",
-  "photo":"./public/friendsimg/beth.jpeg",
+  "name": "Sofia",
+  "photo":"https://images.pexels.com/photos/1574647/pexels-photo-1574647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "scores":[
       5,
       4,
