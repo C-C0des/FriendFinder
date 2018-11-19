@@ -1,5 +1,4 @@
 body { 
-  background: url("friends1.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -7,6 +6,39 @@ body {
   text-align: center;
   color:white;
 }
+
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+ /* video */
+ .video-container {
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+.video {
+  height:800px;
+  top:0;
+  pointer-events: none;
+}
+
+.video::-internal-media-controls-download-button {
+  display:none;
+ }
+
+ .video::-webkit-media-controls-enclosure {
+      overflow:hidden;
+ }
+
+ .video::-webkit-media-controls-panel {
+      width: calc(100% + 30px); 
+ }
+
+
 
 #logo{
   text-decoration: none;
@@ -86,3 +118,8 @@ h4 {
     color:white;
     font-size:70px;
   }
+
+
+
+
+

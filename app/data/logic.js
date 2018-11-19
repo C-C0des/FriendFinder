@@ -1,3 +1,8 @@
+$(document).ready(function(){
+    $('#videocontainer').bind('contextmenu',function() { return false; });
+ });
+
+
 
 
 var TxtType = function(el, toRotate, period) {
