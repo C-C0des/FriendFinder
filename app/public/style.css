@@ -1,8 +1,4 @@
 body { 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
   text-align: center;
   color:white;
 }
@@ -26,6 +22,7 @@ body {
   pointer-events: none;
 }
 
+/*
 .video::-internal-media-controls-download-button {
   display:none;
  }
@@ -37,6 +34,8 @@ body {
  .video::-webkit-media-controls-panel {
       width: calc(100% + 30px); 
  }
+ 
+ */
 
 
 
