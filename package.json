@@ -1,7 +1,7 @@
 {
-  "name": "FriendFinder",
+  "name": "Friend-Finder",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Overview - A Node & Express based web application that simulates a simple dating app.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/C-C0des/FriendFinder.git"
+    "url": "git+https://github.com/chloechoudesign/Friend-Finder.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/C-C0des/FriendFinder/issues"
+    "url": "https://github.com/chloechoudesign/Friend-Finder/issues"
   },
-  "homepage": "https://github.com/C-C0des/FriendFinder#readme",
+  "homepage": "https://github.com/chloechoudesign/Friend-Finder#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",

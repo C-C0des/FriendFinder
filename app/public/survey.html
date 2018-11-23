@@ -3,14 +3,19 @@
 <head>
   <meta charset="utf-8">
   <title>Friend Finder</title>
-     <!-- jQuery -->
-     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-      <!-- Bootstrap CDN-->
+
+    <!-- jQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <!-- Bootstrap CDN-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <!-- CSS-->
-    <link rel="stylesheet" type="text/css" href="/survey.css">
+
+    <!--  Custom Stylesheet -->
+    <link rel="stylesheet" type="text/css" href="/static/survey.css"></style>
+
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Playfair+Display:400,700" rel="stylesheet">
+
     <!-- Chosen -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.5.1/chosen.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.5.1/chosen.jquery.min.js"></script>
@@ -20,15 +25,15 @@
     <div class="row">
       <div class="col-md-12">
         <h1>Survey Questions</h1>
-        <hr>
+        <hr></hr>
         <h5>About You</h5>
         <form>
           <div class="form-group">
-            <label for="name">Name (Required)</label>
+            <label for="name">Name</label>
             <input class="form-control" type="text" id="name">
           </div>
           <div class="form-group">
-            <label for="photo">Link to Photo Image (Required)</label>
+            <label for="photo">Link to Photo Image</label>
             <input class="form-control" type="text" id="photo">
           </div>
         </form>
@@ -181,6 +186,11 @@
     </div>
   </div>
 
+<!-- Borders -->
+<!-- <div id="top"></div>
+<div id="bottom"></div>
+<div id="left"></div>
+<div id="right"></div> -->
 
 <!-- Modal -->
 <div id="resultsModal" class="modal fade" role="dialog">
@@ -188,11 +198,11 @@
 
     <div class="modal-content text-center">
       <div class="modal-header">
-        <p class="modal-title">Your Best Match Is: </p>
+        <p class="modal-title">Your Best Match</p>
       </div>
       <div class="modal-body">
         <h2 id="matchName"></h2>
-        <img id="matchImg" src="" alt="">
+        <img id="matchImg" src="http://cdn3-www.craveonline.com/assets/mandatory/legacy/2015/06/man_file_1059336_6PeterGriffin.png" alt="">
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
