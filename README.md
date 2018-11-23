@@ -1,3 +1,3 @@
 # FriendFinder
 
-https://fast-plains-92784.herokuapp.com/
+https://dry-lowlands-43751.herokuapp.com/
